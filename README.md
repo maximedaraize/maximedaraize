@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello 👋
 
-Here a little summary to help you know me better
+Here's a little summary to help you know me better
 
 - 💻 Front End Developer
-- ✏️ Currently working on [create-scss-cli](https://www.createscss.com) & [vue3 starter](https://github.com/maximedaraize/vue3-starter)
+- ✏️ Currently working on [create-scss-cli](https://www.createscss.com) | ⚡️ A quick and easy way to structure your scss
 - 📚 Currently learning [Vuejs](https://vuejs.org/) and [Tailwind](https://tailwindcss.com/)
-- 👯 Collaborate on [The grid stream](https://thegridstream.com/)
+- 👯 Collaborator on [The grid stream](https://thegridstream.com/)
