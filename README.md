@@ -1,7 +1,5 @@
 ### Hello 👋
 
-Here's a little summary to help you know me better
-
 - 👨‍💻 I am a Front-End Developer & Design Enthusiast
 - 🚀 Rencently published
   - Wallpaper collection: [Blur Gradient Kit v1.1.0](https://www.figma.com/community/file/1125043526859176590)
